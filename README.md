@@ -14,6 +14,7 @@ A client has the following attributes:
 
 
 The website must have the following features:
+
 ● Show the existing clients
 
 ● Add and remove a client
