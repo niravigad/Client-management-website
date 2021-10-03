@@ -12,7 +12,7 @@ A client has the following attributes:
 
 ● IP address 
 
-Here’s a link for initial data - 50 valid customers - link
+
 The website must have the following features:
 ● Show the existing clients
 
