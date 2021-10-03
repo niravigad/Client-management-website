@@ -12,11 +12,15 @@ A client has the following attributes:
 Here’s a link for initial data - 50 valid customers - link
 The website must have the following features:
 ● Show the existing clients
+
 ● Add and remove a client
+
 ● Filter the clients (e.g. all the clients with the surname “Cohen”)
+
 ● Input fields should be validated (at least at minimum level) - both on frontend and backend
 Extra points are per the course you take. If you feel more comfortable with frontend development do the
 frontend extras - same for the backend extras.
+
 
 Frontend Extras:
 ● Use any JS framework you are comfortable with (or plain vanilla js)
