@@ -4,10 +4,10 @@ Build a simple website that will be our clients database.
 Use any programming language you feel comfortable with.
 A client has the following attributes:
 
-● Full Name
-● ID - Teudat Zehut (תעודת זהות)
-● Phone number
-● IP address
+● Full Name 
+● ID - Teudat Zehut (תעודת זהות) 
+● Phone number 
+● IP address 
 
 Here’s a link for initial data - 50 valid customers - link
 The website must have the following features:
