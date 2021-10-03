@@ -42,8 +42,12 @@ Backend Extras:
 
 ● Usage of a database - A must. You can use SQL, NoSQL, anything you feel comfortable with
 
-● When adding a new client, use some IP information API and store the geo data from it (city,
+● When adding a new client, use some IP information API and store the geo dat![image (1)](https://user-images.githubusercontent.com/29573450/135758124-2c2ab127-5b56-47a6-9a31-9c9498ba692e.png)
+a from it (city,
 country) so we can later query by it (Bonus points here!). You can use any API you find online.
 For example - https://ip-api.com/
 
 ● ID field should be validated according to Israeli ID validation guidelines
+![Capture](https://user-images.githubusercontent.com/29573450/135758099-c42a4d96-0c8e-4326-81a9-5057201bff4b.JPG)
+![Uploading image (1).png…]()
+![image](https://user-images.githubusercontent.com/29573450/135758125-9cbed839-97cc-43fb-87fa-0655103c8f57.png)
