@@ -5,7 +5,7 @@ Use any programming language you feel comfortable with.
 A client has the following attributes:
 
 ● Full Name
-● ID - Teudat Zehut (זהות תעודת(
+● ID - Teudat Zehut (תעודת זהות)
 ● Phone number
 ● IP address
 
