@@ -27,6 +27,7 @@ frontend extras - same for the backend extras.
 
 
 Frontend Extras:
+
 ● Use any JS framework you are comfortable with (or plain vanilla js)
 
 ● For each client IP, show some geo information about the IP address. You can use any API you find
@@ -38,6 +39,7 @@ online. For example - https://ip-api.com/
 
 
 Backend Extras:
+
 ● Usage of a database - A must. You can use SQL, NoSQL, anything you feel comfortable with
 
 ● When adding a new client, use some IP information API and store the geo data from it (city,
